@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: *[Add solution URL here]*
-- Live Site URL: *[Add live site URL here]*
+- Solution URL: *[Github Solution](https://github.com/Yaseeru/contact-form)*
+- Live Site URL: *[Live Site Netlify](https://contact-form-solution.netlify.app/)*
 
 ## My process
 
